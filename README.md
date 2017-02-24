@@ -1,4 +1,4 @@
-# wyncode
+# Wyncode
 =========
 
-Wuncoe Git lecture project.
+Wyncode Git lecture project.
